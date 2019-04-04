@@ -1,0 +1,13 @@
+# directories
+# /**/ means any directorie
+# * means any char
+
+# ignore folder with name matching in any folder
+/**/.idea/
+/**/build/
+/**/.gradle/
+/**/.exercism/
+
+# ignore file with name matching in any folder
+/**/*.iml
+/**/*.md

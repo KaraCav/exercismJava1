@@ -1,5 +1,4 @@
 class ReverseString {
-
     String reverse(String inputString) {
         char[] theInput = inputString.toCharArray();
         String toReturn = "";
